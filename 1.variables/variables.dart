@@ -17,4 +17,10 @@ void main() {
   print(nombre_dos.toUpperCase());
   print(nombre.toUpperCase());
   print(test);
+  print(edad);
+  print(edad_dos);
+  print(variableFinalTest);
+  print(variableConstanteTest);
+  print(variableNull);
+  print(variableStringNull);
 }
