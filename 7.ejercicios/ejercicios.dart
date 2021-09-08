@@ -14,5 +14,5 @@ void main() {
   }
   var promedio = suma / listaedades.length;
 
-  print(promedio);
+  print('El promedio es : $promedio');
 }
